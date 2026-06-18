@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/idislikebluecheese/MangoHubScripts/refs/heads/main/Jenga.lua'))()
