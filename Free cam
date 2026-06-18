@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://obj.wearedevs.net/155045/scripts/Free%20cam%20script.lua"))()
